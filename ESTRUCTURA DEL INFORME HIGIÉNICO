@@ -1,0 +1,60 @@
+<section>
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center justify-content-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">El informe higiénico normalmente es producto de un requerimiento realizado por niveles superiores de la empresa u organismos externos a la misma. Por tanto, será utilizado, analizado y discutido por más de un lector. En consecuencia, deberá facilitar la comprensión de una situación compleja por parte de los usuarios que, a la luz del contenido del informe, deberán tomar decisiones sobre el problema analizado que, a su vez, tendrán un impacto en las organizaciones donde se produzcan, pudiendo afectar a los planes de inversión, a la utilización de los recursos disponibles y a las personas que integran la organización.
+                            </span></h5><br>
+                        <h5><span style="font-weight: normal;">La evaluación de riesgos es un proceso que se desarrolla en tres etapas fundamentales: la planificación de la evaluación, el trabajo de campo y el informe. Este último es la expresión escrita, precisa, clara y breve de las actividades realizadas durante las etapas previas. Con la planificación se pretende obtener toda la información relevante para la evaluación; con el trabajo de campo se completa la información necesaria, se comprueba in situ las condiciones en las que se desarrolla el trabajo y se procede a valorar el nivel de los riesgos detectados.
+                            </span></h5><br>
+                        <h5><span style="">Características del informe higiénico</span></h5><br>
+                        <h5><span style="font-weight: normal;">El informe higiénico debe ser completo, pero breve, es decir, en él se debe exponer todo lo que realmente interesa y obviar lo que carece de interés respecto al objetivo del informe. Debe ser claro y estar redactado de forma precisa alejada tanto de complejidades científicas, cuando éstas no sean necesarias, como de interpretaciones ambiguas. Las primeras, en ocasiones, no son información esencial, no son comprensibles para todos los posibles lectores del informe, lo alargan innecesariamente y pueden camuflar los resultados realmente importantes. En cuanto a la segunda observación, es preciso cuidar la redacción de forma que se incluya la información necesaria para la unívoca comprensión de lo que se pretende explicar. Es frecuente que al redactar algo, lo escrito solo exprese parte del pensamiento elaborado por el redactor (parte de la información se da por sabida), lo que podría conducir a una incorrecta interpretación por parte del lector.
+                            </span></h5>
+                        <p class="mb-4 " style="text-align: center;"></p>
+                        <h5>Apartados del informe higiénico</h5><br>
+                        <h5><span style="font-weight: normal;">De las directrices y normas relativas a la organización de la información científica y técnica se desprende la estructura que, con las lógicas variaciones, deberá tener el informe higiénico. Dicha estructura está formada por tres partes que son las siguientes:</span></h5>
+                        <p>
+                        </p>
+                        <h5>
+                            <ul>
+                                <li><span style="font-weight: normal;">La <em>parte inicial</em>, destinada a la información sobre la autoría, contiene los datos (entidad emisora, nombre del autor/a del informe, fecha, registro, etc.), que permiten la trazabilidad del informe. En la parte inicial, uno de los puntos destacables es el título del informe que deberá ser descriptivo del contenido del mismo, teniendo en cuenta que no debe ser ni demasiado largo ni tan corto que por su parquedad dificulte la comprensión del mismo.
+                                    </span></li>
+                                <hr id="null">
+                                <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                                    <h5><strong>Ejemplo: </strong></h5><br>
+                                    <h5><span style="font-weight: normal;"> Un informe sobre la evaluación de la exposición a ruido se titula “Valoración del trauma sonoro en hilatura”. El título sugiere un informe médico sobre la pérdida de la capacidad auditiva real de los trabajadores de la empresa en cuestión o bien un estudio general del sector. Sin embargo, el informe contiene los resultados de las mediciones de ruido y su valoración, apuntando en sus conclusiones la posible pérdida de la capacidad auditiva, y en las recomendaciones la necesidad de realizar el estudio clínico. El título debería ser, por ejemplo: “Evaluación de la exposición a ruido en la sección de hilatura de la empresa XX”
+                                        </span></h5>
+                                </div>
+                                <span style="font-weight: normal;">
+                                    <ul><span style="font-weight: normal;"><br></span>
+                                    </ul>En esta parte inicial se debe incluir un apartado a modo
+                                    de introducción donde figuren: los objetivos del informe, las causas que motivan el informe, la identificación del redactor, de las fechas concretas de visita de las instalaciones, los antecedentes del informe, etc.
+                                </span>
+                                <hr id="null">
+                                <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                                    <h5><strong>Ejemplo: </strong></h5><br>
+                                    <h5><span style="font-weight: normal;"> “En este documento se presenta la valoración de los resultados de las mediciones de Densidad de Potencia de las ondas electromagnéticas generadas por sendas antenas de telefonía móvil existentes en la proximidad del taller. Las mediciones fueron realizadas por «nombre, titulación, cargo, etc.», los días 5 y 6 de enero de 2010. El informe corresponde a la revisión anual que desde 2008 se lleva a cabo y cuyos resultados
+                                            figuran en anteriores informes de referencias RF 1/2006, y RF 2/2009”
+                                        </span></h5>
+                                </div>
+                            </ul>
+                            <ul>
+                                <li><span style="font-weight: normal;">La <em>parte central</em> o cuerpo del informe donde se incluye la información esencial para la comprensión del mismo. En términos generales, se pueden distinguir cinco apartados: «datos operativos» donde se resume la base informativa de la evaluación; «posibles riesgos. higiénicos» donde se destacan los posibles riesgos higiénicos detectados y las operaciones de trabajo a las que se asocian; «valoración» que resume el método de valoración del riesgo y los resultados obtenidos; «conclusiones» de la valoración donde se establece el nivel del riesgo y «recomendaciones» donde se recogen las medidas preventivas concretas y lo más específicas posible para el control del riesgo.<br><br>En la figura 2 se muestran los principales apartados del informe higiénico relacionados con las diferentes etapas del proceso de evaluación.
+                                    </span></li>
+                            </ul>
+                            <p class="mb-4 " style="text-align: center;"><img src="https://aulasvirtuales.uniajc.edu.co/draftfile.php/766258/user/draft/228799930/2.jpg" alt="Figura 1" width="550" height="497" class="img-fluid atto_image_button_text-bottom"><br></p>
+                            <ul>
+                                <li><span style="font-weight: normal;">La <em>parte final</em> donde se recoge la información (Anexos informativos) que amplía o complementa la información contenida en el cuerpo del informe, como por ejemplo fotografías, planos, etc. En la figura 3 se muestran, en esquema, los contenidos del informe higiénico.
+                                    </span></li>
+                            </ul>
+                            <p class="mb-4 " style="text-align: center;"><img src="https://aulasvirtuales.uniajc.edu.co/draftfile.php/766258/user/draft/228799930/3.jpg" alt="Figura 1" width="550" height="483" class="img-fluid atto_image_button_text-bottom"><br></p>
+                        </h5>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-5 mb-lg-0 ml-lg-n5 col-lg-4 col-10 d-flex"> <br> </div>
+        </div>
+    </div>
+</section>
