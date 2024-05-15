@@ -1,0 +1,26 @@
+<section style="text-align: left;">
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+
+                <!-- Aqui comienza la tarjeta blanca donde esta contenido el texto -->
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">En este apartado se describen las actuaciones que, a juicio del técnico higienista, serían necesarias para la resolución de los riesgos higiénicos valorados, dejando clara la jerarquización de las medidas preventivas y justificando dicha jerarquización en la máxima eficacia preventiva de las mismas.<br><br>Siempre que fuera posible se deberían concretar las características y especificaciones de las medidas recomendadas.<br><br>Como ya se ha indicado anteriormente, cualquier información adicional interesante puede ser incluida como anexo al informe. </span></h5>
+
+                        <!-- Aqui comienza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplo: </strong></h5><br>
+                            <h5><span style="font-weight: normal;"> “Se recomienda iniciar el proceso de sustitución del producto XX utilizado en la operación ZZ (o descrito en el punto 3.1), que contiene mayoritariamente
+                                    tricloroetileno como desengrasante, por soluciones jabonosas que presenten menor toxicidad”.<br>“Se recomienda la instalación de un recinto de cerramiento acústico del molino de trituración de las piezas de plástico defectuosas. (Ver esquema propuesto en Anexo XX)”.<br>“Se recomienda aislar la operación de preparación
+                                    de mezclas del resto del proceso”. <br>“Se recomienda la instalación de rendijas de extracción localizada lo más próxima que sea posible a la boca de los bidones de la operación XX. Dichas rendijas deberían provocar una velocidad de captura (media) de 1 m/s en el foco generador de polvo. A título orientativo, en el Anexo XX se adjunta un esquema del sistema así como los requisitos que debería cumplir”.<br>“Se recomienda incrementar los caudales de aire del sistema de ventilación general hasta alcanzar, como mínimo, los estándares establecidos”.<br>“Se recomienda el cambio de los protectores auditivos en uso por otros cuya atenuación sea como mínimo de XX dB frente al ruido existente y cuyo espectro frecuencial de atenuación sea lo más plano posible”.
+                                </span></h5>
+                        </div><br>
+                        <h5><span style="font-weight: normal;">Este apartado está directamente relacionado con el anterior, las recomendaciones deben justificarse y corresponderse con las conclusiones.<br><br>A su vez, los apartados de Conclusiones y Recomendaciones, son consecuencia de deducciones hechas a partir de los datos anteriores que aporta el informe (focos de contaminación, mediciones, datos de ventilación, criterios de valoración, etc.), por lo que en el informe, ante el lector externo, debe quedar clara esta relación causa-efecto.</span></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
