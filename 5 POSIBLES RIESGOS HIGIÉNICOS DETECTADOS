@@ -1,0 +1,20 @@
+<section>
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center justify-content-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">Enumeración de los posibles riesgos higiénicos detectados a partir de la información recopilada y del análisis del proceso productivo.</span></h5>
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplos: </strong></h5><br>
+                            <h5><span style="font-weight: normal;">Exposición por inhalación de vapores orgánicos en las operaciones de desengrase en el proceso de tratamientos térmicos…<br>Exposición por absorción dérmica de disolventes orgánicos en las operaciones de desengrase en el proceso de tratamientos térmicos…<br> Exposición a ruido en las operaciones de lavado y granallado de piezas metálicas en el proceso de tratamientos térmicos.<br> Exposición a vibraciones de cuerpo completo de conductores de carretillas mecánicas en el almacén.<br> Posible exposición por inhalación a agentes biológicos en el proceso de elaboración de compost.<br> Posible exposición por inoculación de agentes biológicos en la operación de extracción de sangre en la actividad sanitaria.
+                                </span></h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-5 mb-lg-0 ml-lg-n5 col-lg-4 col-10 d-flex"> <br> </div>
+        </div>
+    </div>
+</section>
