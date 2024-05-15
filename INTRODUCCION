@@ -1,0 +1,19 @@
+<section>
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center justify-content-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify">
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">La Prevención de Riesgos Laborales es una tarea compleja que a menudo conlleva manejar grandes cantidades de información y que genera, asimismo, un volumen importante de documentación. Esta documentación, en su mayor parte, recoge los resultados de las evaluaciones de riesgos realizadas a lo largo del tiempo. Desde la evaluación inicial, con la que se pone en funcionamiento la maquinaria de la prevención en las empresas, hasta las sucesivas evaluaciones específicas.</span></h5><br>
+                        <h5><span style="font-weight: normal;">La evaluación de riesgos es un proceso que se desarrolla en tres etapas fundamentales: la planificación de la evaluación, el trabajo de campo y el informe. Este último es la expresión escrita, precisa, clara y breve de las actividades realizadas durante las etapas previas. Con la planificación se pretende obtener toda la información
+                                relevante para la evaluación; con el trabajo de campo se completa la información necesaria, se comprueba in situ las condiciones en las que se desarrolla el trabajo y se procede a valorar el nivel de los riesgos detectados.</span></h5><br>
+                        <h5><span style="font-weight: normal;">En la <em>figura 1 </em>se muestra un esquema de las actividades que conlleva el proceso de evaluación de riesgos.</span></h5>
+                        <p class="mb-4 " style="text-align: center;"><img src="https://aulasvirtuales.uniajc.edu.co/draftfile.php/766258/user/draft/244956401/Presentaci%C3%B3n1.jpg" alt="Figura 1" width="560" height="420" class="img-fluid atto_image_button_text-bottom"><br></p>
+                        <h5><span style="font-weight: normal;">Esta nota técnica de prevención se va a centrar en los aspectos relacionados con el informe higiénico resultante del proceso de evaluación de los riesgos relacionados con la exposición o posible exposición a agentes químicos, agentes físicos y/o agentes biológicos. En la nota técnica se indican los contenidos mínimos que se deberían contemplar en dicho informe y la forma de expresarlos.</span></h5>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-5 mb-lg-0 ml-lg-n5 col-lg-4 col-10 d-flex"> <br> </div>
+        </div>
+    </div>
+</section>
