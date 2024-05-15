@@ -1,0 +1,9 @@
+<br>
+<div class="card mx-auto" style="max-width: 800px;">
+    <h5 class="card-header bg-primary"><span style="color: rgb(255, 255, 255);">¡ Evaluación de la Actividad!</span></h5>
+    <div class="card-body">
+        <h5 class="card-title">Esta es una evaluación de 10 preguntas. Por favor lee bien las preguntas y contesta</h5>
+        <h5 style="text-align: justify;"><span style="font-weight: normal;">Una vez hayas visto el contenido de la actividad <em>E2 Informe Higiénico según NTP 863 (Individual)</em>. Pulsa en el botón azul para iniciar con la evaluación. Esta actividad es individual. Muchos Éxitos!</span></h5><br>
+        <a href="https://aulasvirtuales.uniajc.edu.co/mod/quiz/view.php?id=944054" class="btn btn-primary" style="font-size: 18px;"><strong>Iniciar...</strong></a>
+    </div>
+</div>
