@@ -1,0 +1,14 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 bg-primary cover">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad individual</span></h3>
+                    <h5 class="text-justify" style=""><span style="font-weight: normal;">Para que tengan éxito en la presente actividad</span><em> E2 Informe Tecnico (Individual)</em><span style="font-weight: normal;">, lea detenidamente, cada sección y tenga presente los apartados y la estructura que debe tener un "informe Higiénico" así como su significado. Al finalizar cada sección habrá actividades de fogueo o sondeo para que respondan (Estas no son calificables). Sólo al final de la actividad, saldrá un mensaje que le indicará el inicio de la evaluación (al pulsar el botón iniciar...). Esta evaluación al final si será calificable. Les deseo éxitos en el desarrollo de esta actividad.
+                        </span></h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
