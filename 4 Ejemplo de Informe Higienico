@@ -1,0 +1,23 @@
+<br>
+<section>
+    <div class="">
+        <div class="container-fluid  bg-primary" style="">
+            <div class="row flex-md-row justify-content-md-center">
+                <div class="col-12">
+                    <h3 class="align-items-center font-weight-bold text-center p-2 m-2 text-white"><i class="fa fa-video-camera" style="min-width:50px;"></i>Tutorial video - Este es un ejemplo de un informe</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class=" bg-white">
+        <div class="container-fluid px-md-4 px-lg-5 py-3 py-md-4 py-lg-5">
+            <div class="row flex-md-row justify-content-md-center">
+                <div class="col-12 col-md-2 "></div>
+                <div class="col-12 col-md-8 ">
+                    <div class="embed-responsive embed-responsive-16by9 video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/HRm4IfcmlHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+                </div>
+                <div class="col-12 col-md-2 "></div>
+            </div>
+        </div>
+    </div>
+</section>
