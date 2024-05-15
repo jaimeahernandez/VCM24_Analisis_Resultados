@@ -1,0 +1,166 @@
+<div class="container">
+    <br>
+    <div id="accordion">
+        <div class="card">
+            <div class="card-header collapsed" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">OBJETIVO DE ESTUDIO</span>
+                </h5>
+            </div>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">La Higiene Industrial como elemento clave en la identificación, evaluación y control de los riesgos que producen enfermedades de tipo laboral.</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header collapsed" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">OBJETIVO DE FORMACION</span>
+                </h5>
+            </div>
+            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">Proporcionar un marco general para la correcta interpretación y evaluación de los resultados de los estudios de exposición a contaminantes físicos y químicos industriales</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header collapsed" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">JUSTIFICACION</span>
+                </h5>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">Esta asignatura busca enseñar al estudiante como interpretar y analizar los resultados de los estudios de higiene de campo en relación al riesgo físico y químico, esto le permitirá como integrante del sistema de gestión en seguridad y saluden el trabajo implementar controles y asíprevenir, disminuir y eliminar los riesgos higiénicos en la industria.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header collapsed" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">SABERES ESENCIALES</span>
+                </h5>
+            </div>
+            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <ul style="font-size: 20px;">
+                        <li><strong>HACER:</strong> Aplicar los conocimientos adquiridos en relación a la correcta interpretación y toma de decisiones según los resultados de las evaluaciones de exposición a contaminantes físicos y químicos.</li><br>
+                        <li><strong>CONOCER:</strong>
+                            <ul><br>
+                                <li>Conocer e interpretar el Concepto de informe.</li>
+                                <li>Conocer e interpretar el Concepto de evaluación.</li>
+                                <li>Conocer e interpretar el Concepto de peligros y riesgos.</li><br>
+                            </ul>
+                        </li>
+                        <li><strong>SER:</strong> Aplicar de manera ética los conocimientos para la mejora de las condiciones de trabajo de los colaboradores. Estar actualizado en las normas técnicas para la redacción de informes de peligros y riesgos.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">COMPETENCIA</span>
+                </h5>
+            </div>
+            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">Interpretar de forma correcta los informes de evaluación de exposición a ruido, niveles de iluminación, temperaturas, agentes químicos y vibraciones.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header collapsed" id="headingSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">METODOLOGIA</span>
+                </h5>
+            </div>
+            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">El curso se desarrollará bajo la metodología de Educación a Distancia b-learnig (presencialidad + virtualidad) con apoyo de TIC, en el cual supone la preparación de las lecturas, desarrollo y entrega de actividades propuestas, a través de trabajo individual o grupos y bajo la orientación del docente – tutor, a través del cual se busca que los estudiantes logren aplicar los contenidos estudiados. Se desarrollarán diversos espacios como:
+                    </p><br>
+                    <ul style="font-size: 20px;">
+                        <li><strong>Saberes previos:</strong> Identificar los saberes previos de los y las participantes, con relación, a la educación a Distancia, el aprendizaje y la Institución.</li><br>
+                        <li><strong>Socialización de saberes:</strong> Mediante estrategias didácticas (foros y chat), se resolverán situaciones y se hará una puesta en común de los conocimientos para unificar criterios pertinentes, para el desarrollo del curso.</li><br>
+                        <li><strong>Inductiva:</strong>El estudiante podrá llegar a conclusiones y conceptos significativos del tema tratado, mediante la experiencia de desarrollar las actividades propuestas tanto, individual o en grupo.</li><br>
+                        <li><strong>Deductiva:</strong>El estudiante podrá apropiar conocimientos y reflexionar sobre los mismos, con el fin de formas sus propios conceptos del tema de estudio.</li><br>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header collapsed" id="headingSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">ESTRATEGIAS</span>
+                </h5>
+            </div>
+            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">La metodología será abierta y participativa con práctica de investigación y considerará:<br><br>Acuerdo pedagógico.
+                    </p><br>
+                    <ul style="font-size: 20px;">
+                        <li>Lectura del material propuesto en plataforma</li>
+                        <li>Trabajo dirigido (Encuentros presenciales)</li>
+                        <li>Trabajo independiente dirigido en plataforma</li>
+                        <li>Participación en foros sociales</li>
+                        <li>Participación en foros para el desarrollo de las preguntas pedagógicas</li>
+                        <li>Elaboración de las actividades individuales y en grupos enviados en las fechas indicadas en la plataforma virtual.</li>
+                        <li>Participación en foros para el desarrollo de las preguntas pedagógicas</li>
+                        <li>Presentación de Autoevaluaciones</li>
+                        <li>Presentación de evaluaciones</li>
+                        <li>Elaboración de actividades durante el trabajo dirigido (encuentros)</li>
+                        <li>Examen Final (presencial)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingEight" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight" style="background-color: #007bff;">
+                <h5 class="mb-0">
+                    <span style="font-size: 24px; cursor: pointer; color: #fff;">INSTRUMENTOS DE EVALUACION</span>
+                </h5>
+            </div>
+            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion" style="background-color: #f0f0f0; border: 1px solid #ccc;">
+                <div class="card-body" style="text-align: justify;">
+                    <p style="font-size: 20px;">El curso será desarrollado a través de la interacción de las herramientas TIC, el estudiante encontrará materiales orientadores del proceso de enseñanza-aprendizaje que deberá desarrollar como proceso de evaluación. A su vez, encontrará páginas de interés que le permitirán realizar profundización e investigación del tema, con el cual podrá complementar sus actividades.</p><br>
+                    <p style="font-size: 20px;">Se evaluará con el desarrollo de preguntas generadoras en los foros, así como también la entrega de talleres, autoevaluaciones, evaluaciones de las unidades y la participación de los encuentros tutoriales presenciales.</p><br>
+                    <p style="font-size: 20px;">La evaluación será bajo un proceso continuo de las actividades planteadas en cada una de las Unidades que corresponderán al 65% de aprobación, el 35% restante al examen final. Para un total de 100% de aprobación.</p><br>
+                    <p style="font-size: 20px;">La plataforma permitirá medir el nivel de ingreso y consulta de cada participante (asistencia).</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var accordionHeaders = document.querySelectorAll('.card-header');
+
+        accordionHeaders.forEach(function(header) {
+            header.addEventListener('click', function(event) {
+                var targetCollapse = document.getElementById(header.getAttribute('data-target').slice(1));
+
+                // Evitar que se cierre automáticamente
+                event.stopPropagation();
+
+                // Oculta todas las otras cards al hacer clic
+                var allCollapses = document.querySelectorAll('.collapse');
+                allCollapses.forEach(function(collapse) {
+                    if (collapse.id !== targetCollapse.id) {
+                        collapse.classList.remove('show');
+                    }
+                });
+
+                // Muestra o colapsa la card actual basándose en su estado actual
+                targetCollapse.classList.toggle('show');
+            });
+        });
+    });
+</script>
