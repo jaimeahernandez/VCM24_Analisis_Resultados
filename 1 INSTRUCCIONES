@@ -1,0 +1,13 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 bg-primary cover">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad grupal (Maximo 2 personas)</span></h3>
+                    <h5 class="text-justify">El producto de esta actividad es un INFORME TECNICO que deberá ser presentado en una de las plataformas establecidas por el tutor (Prezi, Genially o Canva). Dicho informe deberá desarrollarse conforme al diagrama de flujo realizado en el encuentro anterior y por el estudio cuya información es aportada en esta misma actividad (El estudio corresponde a un muestreo de material particulado). El informe Higiénico se diseñará DURANTE el encuentro y cada grupo deberá subirlo a Moodle en la Unidad 1, Actividad E3. Si requiere hacer cálculos, les recomendamos apoyarse del video “Método NIOSH 600” que se encuentra en la misma actividad. Sólo al final de la misma, saldrá un mensaje para que puedan subir el trabajo o informe realizado (al pulsar el botón Subir...). Muchos Exitos!</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
