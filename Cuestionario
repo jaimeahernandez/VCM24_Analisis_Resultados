@@ -1,0 +1,102 @@
+1. Los datos operativos en un informe higiénico según la NTP 863 debe incluir:
+
+Datos del Proceso, Datos del Local, Datos sobre medidas implantadas, Datos sobre los EPP (OK)
+Sólo el Análisis de los Resultados!
+Metodología de Valoración y Criterios de Valoración
+Conclusiones, Recomendaciones y Anexos
+Introducción, Antecedentes y Objetivos
+
+2. Según la NTP 863, los "Limites de exposición" empleados para evaluar el riesgo, van ubicados dentro de un informe higiénico en:
+
+Datos Operativos
+Posibles riesgos higiénicos detectados
+Metodología de Valoración
+Criterios de Valoración (OK)
+Conclusiones
+
+3. Indique Falso o Verdadero, "Según la NTP 863, los resultados para la valoración de los riesgos, sólo se limita y son los mismos Datos Operativos"
+
+Verdadero
+Falso (OK)
+
+4. En una tabla de resultados de un muestreo de material particulado del tipo fracción respirable, una de las siguientes variables, me sirve para comparar con el TLV y evaluar el riesgo:
+
+Concentración Ponderada (OK)
+Flujo o Caudal en L/min
+Peso de la muestra en mg
+Volumen de muestreo
+TLV ajustado
+
+5. Una empresa industrial ha instalado un nuevo sistema de extracción de polvo en su planta de producción. El objetivo del estudio es evaluar la efectividad de este extractor midiendo las concentraciones de material particulado en el aire antes y después de la instalación. Además, se debe considerar el TLV (Threshold Limit Value) ajustado y la concentración ponderada para determinar el índice de riesgo asociado. Los datos y resultados son los siguientes: 
+
+TLV ajustado: 2.34 mg/m³
+Concentraciones medidas antes de la instalación:
+Muestra 1:  1,33 mg/m³, Tiempo 1:  110 min
+Muestra 2:  3,32 mg/m³, Tiempo 2:  150 min
+Muestra 3:  4,02 mg/m³, Tiempo 3:  175 min
+Cp: 3,10 mg/m³
+Concentraciones medidas después de la instalación:
+Muestra 1:  0,80 mg/m³, Tiempo 1:  110 min
+Muestra 2:  1,25 mg/m³, Tiempo 2:  150 min
+Muestra 3:  2,51 mg/m³, Tiempo 3:  175 min
+Cp: 1,64 mg/m³
+
+Con base en el análisis de estos resultados, indicar la respuesta correcta: 
+
+El extractor de gases ha reducido la concentración ponderada de 3.10 mg/m³ a 1.64 mg/m³, lo que indica una mejora significativa en la calidad del aire. El índice de riesgo ha disminuido de 1.32 a 0.70, lo que muestra una reducción considerable del riesgo, pero todavía no lo suficiente para ser considerado bajo (menor de 0.5). Aunque el riesgo sigue siendo moderado, el sistema es efectivo ya que ha reducido el índice de riesgo en un 47%.
+La concentración ponderada ha disminuido de 3.10 mg/m³ a 1.64 mg/m³, indicando una mejora en la calidad del aire. Sin embargo, el índice de riesgo ha bajado de 1.32 a 0.50
+El extractor de gases ha reducido la concentración ponderada de 3.10 mg/m³ a 2.64 mg/m³. El índice de riesgo ha disminuido de 1.32 a 0.30, mostrando una reducción significativa del riesgo, aunque no lo suficiente para ser considerado bajo. A pesar de esto, el extractor es efectivo, ya que ha reducido el índice de riesgo en aproximadamente un 47%.
+La concentración ponderada ha disminuido de 3.10 mg/m³ a 1.64 mg/m³, lo que muestra una mejora en la calidad del aire. El índice de riesgo ha bajado de 1.32 a 0.84. Por lo tanto, el extractor no se considera efectivo.
+El extractor ha reducido la concentración ponderada de material particulado en el aire de 3.10 mg/m³ a 1.64 mg/m³ y el índice de riesgo de 1.32 a 0.70, indicando una mejora significativa en la calidad del aire y una reducción considerable del riesgo. Aunque el riesgo sigue siendo medio, el sistema no es efectivo al no poder reducir el índice de riesgo a un riesgo bajo.(OK)
+
+6. Si luego de aplicar el método de bandas de octava para analizar la efectividad de tres EPP auditivos de copas para 8 horas, tenemos como resultados L'Aeq1 = 82.5 dB, L'Aeq2 = 81.5 dB y L'Aeq3 = 85.1 dB. Segun su análisis de estos resultados, indique la respuesta correcta
+
+El EPP más efectivo es L'Aeq1, porque reduce el ruido a 82.5 dB.
+El EPP más efectivo es L'Aeq2, porque reduce el ruido a 81.5 dB
+El EPP más efectivo es L'Aeq3, porque reduce el ruido a 85.1 dB.
+Todos los EPP son igualmente efectivos.
+Sencillamente ninguno de estos EPP son efectivos (OK)
+
+7. En un área de oficinas de dibujo, se usaron dos luminarias con la misma potencia pero con diferente ángulo de apertura. Para este caso, se aplica el método de la cuadricula en esta área midiendo 25 puntos según el Indice de Local (K) y el Número mínimo de puntos calculados (PC). Según el RETILAP, para este tipo de oficinas el limite de referencia mínimo es 500 Lx y el máximo es de 1000 Lx.  Los datos y resultados son los siguientes
+
+Luminaria A: Potencia = 120 W, Ángulo de apertura = 30°
+Eprom con Luminaria A = 520 Lx, Uniformidad: No es uniforme
+Luminaria B: Potencia = 100 W, Ángulo de apertura = 60°
+Eprom con Luminaria B = 402 Lx, Uniformidad: Es uniforme
+
+Con base en el análisis de estos resultados, indicar la respuesta correcta:
+
+La iluminación general del área con La Luminaria A cumple con el nivel mínimo de referencia de 500 Lx en comparación con la Luminaria B. Su nivel de iluminación promedio es mayor que en la Luminaria B. Proporciona una buena iluminación en puntos específicos por su ángulo de apertura, pero no distribuye la luz de manera uniforme. (OK)
+La Luminaria B, a pesar de tener una menor potencia, su Eprom no cumple con el nivel mínimo de referencia de 500 Lx. No distribuye la luz de manera uniforme en toda el área de trabajo debido a que su ángulo de apertura es mayor que con la Luminaria A
+La Luminaria A es la mejor opción ya que proporciona una iluminación superior a 500 Lx, asegurando una excelente visibilidad en toda el área de trabajo
+La Luminaria B es la mejor opción ya que, aunque su Eprom es menor de 500 Lx, su uniformidad asegura una iluminación constante y suficiente en toda el área.
+Ambas luminarias son adecuadas para esta área de oficinas de dibujo porque el Eprom de la Luminaria A es adecuda y la Luminaria B es uniforme según el RETILAP
+
+8. Indicar Falso o Verdadero con respecto al Método de la Cuadricula en iluminación. "Si luego de obtener los puntos calculados PC, no coinciden con los puntos reales (PR) por ser estos últimos menores, entonces estas mediciones NO cumplen con el mínimo numero de puntos".
+
+Verdadero (OK)
+Falso
+
+9. Jaime es un operario en una fábrica metalúrgica, quien realiza una sola tarea durante su jornada de trabajo (M =325 kCal/H) y un ciclo de Trabajo o de recuperación de 45/15. Durante los meses de verano, las temperaturas en el interior de la misma alcanzan niveles elevados debido a la actividad industrial y la exposición a fuentes de calor como hornos y maquinaria. Inicialmente se toman mediciones de temperatura con un monitor de estres térmico en el puesto de trabajo donde labora Jaime. Por ordenes de su Jefe, se instala posteriormente, una barrera con aislamiento térmico de espuma de poliuretano con un coeficiente de absorción térmica de 0.7. Supuestamente, para minimizar la transferencia de calor entre la fuentes de calor y el puesto de trabajo de Jaime. Los resultados son los siguientes.
+
+Antes de implementar la barrera de contención
+Temperatura del aire (TS): 30°C
+Temperatura del bulbo húmedo (Th): 26°C
+Temperatura del globo (Tg): 34°C
+Despues de implementar la barrera de contención
+Temperatura del aire (TS): 28°C
+Temperatura del bulbo húmedo (Th): 24°C
+Temperatura del globo (Tg): 30°C
+
+Con base en el análisis de estos resultados, ¿Cuál de las siguientes opciones describe mejor el impacto de la barrera de contención en el estrés térmico experimentado por Jaime?".
+
+Antes de la barrera, Jaime experimentaba un WBGT alto (28.4°C), mientras que después de la instalación, el WBGT se redujo a medio (25.8°C). Esto sugiere que la barrera de contención mejoró las condiciones térmicas para Jaime, sin ser completamente efectivo. (OK)
+Antes de la barrera, el WBGT era alto (28.4°C), y después de la instalación, aunque el WBGT aún era alto (aproximadamente 26.2°C), la reducción de aproximadamente 2.2°C indica una mejora en las condiciones térmicas debido a la barrera.
+Antes de la barrera, Jaime experimentaba un WBGT alto (28.4°C), pero después de la instalación, el WBGT se redujo significativamente a bajo (aproximadamente 23.9°C). Esto indica una mejora sustancial en las condiciones térmicas debido a la barrera que termina siendo efectiva.
+Aunque el WBGT era medio (aproximadamente 26.7°C) antes de la instalación de la barrera, la reducción adicional a 25.8°C después de la instalación sugiere una mejora continua en las condiciones térmicas con la barrera.
+Aunque el WBGT era bajo (aproximadamente 24.2°C) antes de la instalación de la barrera, el aumento a medio (25.8°C) después de la instalación sugiere un empeoramiento de las condiciones térmicas para Jaime.
+
+10. Indique Falso o Verdadero. "En un entorno laboral, el WBGTprom se calcula considerando las condiciones generales de temperatura, mientras que el WBGTeff toma en cuenta además, factores individuales como la ropa. Por lo tanto, es posible que el WBGTeff sea menor que el WBGTprom si el trabajador lleva una ropa de protección efectiva de 0.25 de CAF"
+
+Verdadero
+Falso (OK)
