@@ -1,0 +1,13 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 cover bg-info">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad grupal (Máximo 2 personas)</span></h3>
+                    <h5 class="text-justify">Esta actividad contiene un (1) estudio de caso relacionado con la evaluación de estrés térmico por calor. Responde lo indicado por el tutor DURANTE el encuentro. Si requiere hacer cálculos, les recomendamos apoyarse de los tutoriales incluidos dentro de la actividad. Sólo, al final de la misma, saldrá un mensaje para que realicen la evaluación. Aunque el trabajo se realice en parejas, CADA UNO debe marcar sus propias respuestas en la evaluación. Muchos Éxitos en el desarrollo de la actividad!</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
