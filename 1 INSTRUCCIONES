@@ -1,0 +1,28 @@
+<div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center;">
+    <hr class="bg-primary p-2 m-0">
+    <div></div>
+    <h1>Pulse en el circulo verde para iniciar las instrucciones</h1>
+    <div style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.pixabay.com/photo/2016/07/24/16/16/arrow-1538694_1280.png" class="img-fluid" style="width: 290px; height: 150px;">
+        <div></div>
+        <div style="background-color: rgb(40, 167, 69); width: 140px; height: 140px; border-radius: 50%; margin: 10px; cursor: pointer; font-size: 18px; color: white;" onclick="showInstruction('El producto de esta actividad es un INFORME TÉCNICO que deberá ser presentado en una de las plataformas establecidas por el tutor (Prezi, Genially o Canva).')">
+            <h1>1</h1>
+        </div>
+        <div style="background-color: #dc3545; width: 140px; height: 140px; border-radius: 50%; margin: 10px; cursor: pointer;  color: red;" onclick="showInstruction('Dicho informe deberá desarrollarse conforme al diagrama de flujo realizado en el primer encuentro y por el estudio cuya información es aportada en esta misma actividad (El estudio corresponde a una evaluación de ruido ocupacional).')">
+            <h1><span style="color: rgb(255, 255, 255);">2</span></h1>
+        </div>
+        <div style="background-color: #ffc107; width: 140px; height: 140px; border-radius: 50%; margin: 10px; cursor: pointer; color: black;" onclick="showInstruction('El informe Higiénico se diseñará DURANTE el encuentro y cada grupo deberá subirlo a Moodle en la Unidad 2, donde se encuentra la Actividad E4 Informe Técnico - Estudio Ruido Ocupacional (Grupal).')">
+            <h1><span style="color: rgb(255, 255, 255);">3</span></h1>
+        </div>
+        <div style="background-color: #007bff; width: 140px; height: 140px; border-radius: 50%; margin: 10px; cursor: pointer; color: white;" onclick="showInstruction('Si requiere hacer cálculos, apóyese en el video Metodo de Bandas de Octava - App SoundSafe, que se encuentra en la misma actividad. Sólo al final de la misma, saldrá un mensaje para que puedan subir el trabajo o informe realizado')">
+            <h1>4</h1>
+        </div>
+    </div>
+    <hr>
+    <p id="instruction-text" style="font-size: 20px; margin-top: 30px; margin-bottom: 30px; width: 80%; margin: 0 auto; color: black; max-width: 800px; text-align: center; padding: 0 20px;"></p>
+    <hr class="bg-primary p-2 m-0">
+</div>
+<script>
+    function showInstruction(instruction) {
+        document.getElementById('instruction-text').innerText = instruction;
+    }
+</script>
