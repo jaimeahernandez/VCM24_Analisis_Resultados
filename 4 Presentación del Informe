@@ -1,0 +1,42 @@
+<section class="px-0 px-md-3 px-lg-5 pt-0 pt-md-3 pt-lg-5 pb-0 pb-md-3 pb-lg-5 cover bg-white">
+    <div class="container-fluid">
+        <h3 class="text-justify">Para elaborar el informe higiénico, los estudiantes deberán usar UNA de las siguientes plataformas (POR FAVOR, SELECCIONAR SOLO UNA)</h3>
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-12 py-2 col-lg-4">
+                <div class="card shadow border border-0 rounded-0 h-100">
+                    <div class="card-body">
+                        <h3>Prezi</h3>
+                        <p class="text-justify">Prezi es un programa de presentaciones para explorar y compartir ideas sobre un documento virtual basado en la informática en nube. La aplicación se distingue por su interfaz gráfica con zoom, que permite a los usuarios disponer de una visión más acercada o alejada de la zona de presentación.</p><a href="https://prezi.com/es/" class="btn btn-primary" target="_blank">Button</a>
+                    </div>
+                    <div class="card-footer bg-white p-3">
+                        <div class="embed-responsive embed-responsive-16by9 video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/sn2VrIanOWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4 py-2">
+                <div class="card shadow border border-0 rounded-0 h-100">
+                    <div class="card-body">
+                        <h3>Genially</h3>
+                        <p class="text-justify"><span style="color: rgb(32, 33, 34);">Genially, también conocido como "Genial.ly", es una herramienta en línea para crear todo tipo de contenidos visuales e interactivos de manera fácil y rápida, de uso individual o en equipo.</span><a href="https://es.wikipedia.org/wiki/Genially#cite_note-1" rel="noopener noreferrer" target="_blank" style="color: rgb(51, 102, 204);"><sup>1</sup></a><span style="color: rgb(32, 33, 34);">​ Este software todo en uno permite crear presentaciones, infografias, gamificaciones e imagenes interactivas.</span></p>
+                        <a href="https://genial.ly/es/" class="btn btn-primary" target="_blank">Button</a>
+                    </div>
+                    <div class="card-footer bg-white p-3">
+                        <div class="embed-responsive embed-responsive-16by9 video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6gfp4zxjtf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 py-2 col-lg-4">
+                <div class="card shadow border border-0 rounded-0 h-100">
+                    <div class="card-body">
+                        <h3>Canva</h3>
+                        <p class="text-justify"><strong style="color: rgb(95, 99, 104);">Canva</strong><span style="color: rgb(77, 81, 86);">&nbsp;es una herramienta gratuita de diseño gráfico en línea. Puedes usarla para crear publicaciones para redes sociales, presentaciones, carteles, videos, etc. </span><span style="color: rgb(32, 33, 34);">Este software todo en uno permite crear presentaciones, infografias, gamificaciones e imagenes interactivas.</span></p>
+                        <a href="https://www.canva.com/es_419/" class="btn btn-primary" target="_blank">Button</a>
+                    </div>
+                    <div class="card-footer bg-white p-3">
+                        <div class="embed-responsive embed-responsive-16by9 video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/dx4swQoFmFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
