@@ -1,0 +1,8 @@
+<div class="card mx-auto" style="max-width:1000px;">
+    <h5 class="card-header bg-primary"><span style="color:rgb(255,255,255);">¡ Saludo de Bienvenida !</span></h5>
+    <div class="card-body">
+        <h5 class="card-title">Bienvenidos al Curso Análisis de Resultados de Muestreo Ambiental</h5>
+        <p class="card-text" style="text-align:justify;">Estamos felices de darles la bienvenida a esta experiencia educativa en la que exploraremos los fundamentos y las técnicas esenciales para analizar resultados de muestreo ambiental. Este curso está diseñado para brindarles las herramientas necesarias para comprender, interpretar y aplicar eficazmente los datos recopilados en el ámbito de la higiene y la seguridad industrial. Esten pendientes de la información que les estaremos enviando por aquí.&nbsp;¡Les deseamos mucho éxito en su aprendizaje y esperamos que disfruten del curso!</p>
+        <a href="https://aulasvirtuales.uniajc.edu.co/mod/forum/view.php?f=88992" class="btn btn-primary">Volver a Avisos</a>
+    </div>
+</div>
