@@ -1,0 +1,57 @@
+ 1 ¿Cuál es la relación entre el ángulo de inclinación de la luminaria y la iluminancia vertical (EV) en el método punto por punto, según los resultados dados?
+
+La iluminancia vertical disminuye a medida que aumenta el ángulo de inclinación de la luminaria.
+La iluminancia vertical aumenta a medida que aumenta el ángulo de inclinación de la luminaria.
+No hay una relación clara entre el ángulo de inclinación de la luminaria y la iluminancia vertical.(OK)
+La iluminancia vertical es constante independientemente del ángulo de inclinación de la luminaria.
+La iluminancia vertical alcanza su máximo cuando el ángulo de inclinación de la luminaria es de 50 grados.
+
+2. ¿Cuál es el efecto de aumentar la distancia entre la luminaria y el punto de medición en la iluminancia horizontal (EH), según los resultados dados en el estudio de caso?
+
+La iluminancia horizontal aumenta a medida que aumenta la distancia entre la luminaria y el punto de medición.
+La iluminancia horizontal disminuye a medida que aumenta la distancia entre la luminaria y el punto de medición.(OK)
+La iluminancia horizontal disminuye a medida que disminuye la distancia entre la luminaria y el punto de medición.
+La iluminancia horizontal permanece constante independientemente de la distancia entre la luminaria y el punto de medición.
+La iluminancia horizontal alcanza su máximo cuando la distancia entre la luminaria y el punto de medición es de 2 metros.
+
+3. ¿Cuál es la relación entre el ángulo de inclinación de la luminaria y la iluminancia horizontal (EH) en el método punto por punto, según los resultados dados?
+
+La iluminancia horizontal disminuye a medida que aumenta el ángulo de inclinación de la luminaria.(OK)
+La iluminancia horizontal aumenta a medida que aumenta el ángulo de inclinación de la luminaria.
+No hay una relación clara entre el ángulo de inclinación de la luminaria y la iluminancia horizontal.
+La iluminancia horizontal es constante independientemente del ángulo de inclinación de la luminaria.
+La iluminancia horizontal alcanza su máximo cuando el ángulo de inclinación de la luminaria es de 10 grados.
+
+4. En el método punto por punto, la iluminancia total (E) siempre es mayor que la iluminancia horizontal (EH) en todos los puntos de medición.
+
+Verdadero
+Falso(OK)
+
+5. Una de las siguientes afirmaciones no es correcta
+
+La iluminancia total disminuye a medida que aumenta la distancia.
+La iluminancia total alcanza su máximo cuando la distancia entre la luminaria y el punto de medición es de 0 metros.
+La iluminancia total cumple con los limites del RETILAP cuando los ángulos son 0° y 10°
+La iluminancia total no cumple con los limites del RETILAP cuando los ángulos son 30°, 50°, 70° y 80°
+En cuanto a iluminancia total, el 40% de los puntos cumplen con los limites del RETILAP(OK)
+
+6. ¿Qué tendencia se observa en la relación entre la iluminancia horizontal (EH) y la iluminancia vertical (EV) a medida que aumenta el ángulo de inclinación de la luminaria en este estudio de caso?
+
+La iluminancia horizontal y la iluminancia vertical aumentan proporcionalmente a medida que aumenta el ángulo de inclinación.
+La iluminancia horizontal aumenta mientras que la iluminancia vertical disminuye a medida que aumenta el ángulo de inclinación.
+La iluminancia horizontal disminuye mientras que la iluminancia vertical aumenta a medida que aumenta el ángulo de inclinación.
+La iluminancia horizontal y la iluminancia vertical permanecen constantes independientemente del ángulo de inclinación.
+La iluminancia horizontal disminuye mientras que la iluminancia vertical aumenta hasta cuando el ángulo de inclinación es de 30°, porque a partir de allí, la iluminancia vertical disminuye.(OK)
+
+7. En este estudio de caso, la iluminancia vertical (EV) es siempre igual a cero cuando el ángulo de inclinación de la luminaria es de 0 grados.
+
+Verdadero(OK)
+Falso
+
+8. Dada una intensidad luminosa de 6335 candelas y una altura de la luminaria de 3.5 metros en una oficina, ¿Qué conclusión puede sacarse sobre la idoneidad de la iluminación para el entorno de trabajo de acuerdo con los resultados dados?
+
+La intensidad luminosa y la altura de la luminaria son adecuadas para proporcionar niveles de iluminancia horizontal suficientes en todos los puntos medidos.
+La intensidad luminosa y la altura de la luminaria son adecuadas para proporcionar niveles de iluminancia vertical suficientes en todos los puntos medidos.
+La intensidad luminosa y la altura de la luminaria no son adecuadas para proporcionar niveles de iluminancia vertical en todos los puntos ni de iluminación horizontal en todos los puntos medidos excepto en cero grados para este ultimo.(OK)
+La intensidad luminosa es suficiente para proporcionar niveles de iluminancia adecuados en la oficina.
+No se puede sacar conclusiones al respecto
