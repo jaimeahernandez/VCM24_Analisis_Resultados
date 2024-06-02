@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header text-center">
+                    <strong>
+                        <h5>¡Anuncios!</h5>
+                    </strong>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Anuncios importantes para el curso...</h5>
+                    <p class="card-text text-justify">A través de este medio estaremos en contacto continuo para proporcionar información relevante sobre el curso. Manténganse atentos a los anuncios, donde compartiremos actualizaciones importantes, fechas clave, recursos adicionales y cualquier otra notificación esencial para su participación exitosa en el curso.</p>
+                </div>
+                <div class="card-footer text-muted text-center">
+                    <a href="https://aulasvirtuales.uniajc.edu.co/course/view.php?id=20747&amp;section=0" class="btn btn-primary">Volver a Inicio</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
