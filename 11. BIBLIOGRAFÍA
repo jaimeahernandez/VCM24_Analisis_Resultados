@@ -1,0 +1,27 @@
+<section>
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center justify-content-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">
+                                <ol>
+                                    <li>
+                                        INSTITUTO NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO<br> <strong>Higiene Industrial</strong><br><em> Madrid. INSHT. 2008
+                                        </em>
+                                    </li><br>
+                                    <li>
+                                        GRUPO DE TRABAJO EN INFORMACIÓN Y DOCUMENTACIÓN A3 DE LA UNIVERSIDAD DE SALAMANCA<br> <strong>Directrices para la producción de informes científicos y técnicos: cómo escribir y distribuir literatura gris Versión 1.1 julio 2007</strong><br><em> Traducción en español de las Guidelines for the production of scientifi c and technical reports: how to write and distribute grey literature de GLISC (Grey Literature International Steering Committee). (<a href="http://www.glisc.info" target="_blank">www.glisc.info</a>)
+                                        </em></li><br>
+                                    <li>
+                                        ANSI/NISO<br> <strong>Scientific and Technical Reports – Preparation, Presentation, and Preservation.</strong><br><em> Bethesda,MD: NISO Press; 2005. (Standard Z39.18-2005). (<a href="http://www.niso.org/standards/" target="_blank">http://www.niso.org/standards/</a>)
+                                        </em></li>
+                                </ol>
+                            </span></h5><br>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-5 mb-lg-0 ml-lg-n5 col-lg-4 col-10 d-flex"> <br> </div>
+        </div>
+    </div>
+</section>
