@@ -1,0 +1,23 @@
+<section style="text-align: left;">
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+
+                <!-- Aqui comienza la tarjeta blanca donde esta contenido el texto -->
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">En el apartado de conclusiones se enuncian las deducciones llevadas a cabo tras el proceso de valoración. </span></h5>
+
+                        <!-- Aqui comienza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplo: </strong></h5><br>
+                            <h5><span style="font-weight: normal;"> “Respecto al riesgo de inhalación de vapores de acetona durante la limpieza de recipientes de laboratorio, se supera el valor límite de exposición diaria establecido en el Documento de los Límites de Exposición Profesional (LEP)”<br>“Respecto al puesto de trabajo de granallado de piezas metálicas, se supera el valor límite establecido como LAeq,d en el Real Decreto 286/2006”.<br>“No es posible determinar la magnitud del riesgo derivado de la exposición a humos de soldadura ya que la incertidumbre asociada a los resultados del muestreo es excesiva”.<br>“De los resultados de las mediciones de aceleración eficaz en la empuñadura del martillo neumático y del tiempo de utilización de éste, se puede concluir que la exposición a vibraciones mano-brazo es muy inferior al nivel de exposición que da lugar a una acción”.
+                                </span></h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
