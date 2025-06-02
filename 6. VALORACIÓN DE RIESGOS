@@ -1,0 +1,62 @@
+<section style="text-align: left;">
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+
+                <!-- Aqui comienza la tarjeta blanca donde esta contenido el texto -->
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">En este apartado se deberían incluir los datos concisos sobre los recursos utilizados para la valoración del riesgo o riesgos detectados. Estos datos se podrían organizar en los siguientes subapartados:</span></h5><br>
+                        <h5><span class="" style="color: rgb(0, 0, 255);">Metodologia de Valoración&nbsp;</span></h5>
+                        <h5>Cuantitativa</h5>
+                        <h5>
+                            <ul>
+                                <li><span style="font-weight: normal;">Equipos de Muestreo</span></li>
+                                <li><span style="font-weight: normal;">Metodo Analitico</span></li>
+                                <li><span style="font-weight: normal;">Estrategia de Muestreo</span></li>
+                            </ul>
+                        </h5>
+                        <p><span style="font-weight: normal;"></span></p>
+                        <h5>Cualitativa</h5>
+                        <h5>
+                            <ul>
+                                <li><span style="font-weight: normal;">Descripción del Modelo</span></li>
+                                <li><span style="font-weight: normal;">Datos de Peligrosidad del agente contaminante</span></li>
+                                <li><span style="font-weight: normal;">Datos de la operación o tarea</span></li>
+                                <li><span style="font-weight: normal;">Tipo de medida preventiva implantada</span></li>
+                            </ul>
+                        </h5>
+                        <p><span style="font-weight: normal;"></span></p>
+                        <h5>Resultados</h5>
+                        <h5><span style="font-weight: normal;">Con independencia de la metodología seguida, en este apartado deben quedar debidamente referenciados: el nombre del método, los equipos de muestreo utilizados o los modelos empleados para una valoración cualitativa, los datos del laboratorio externo encargado del análisis de las muestras, etc.
+                            </span></h5>
+
+                        <!-- Aqui comienza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplo: </strong></h5><br>
+                            <h5><span style="font-weight: normal;"> “…el sonómetro integrador-promediador utilizado es de la marca FFG modelo 1221”<br> “…se ha seguido la estrategia de muestreo según la norma UNE 689:1995”<br> “…para la valoración del riesgo se ha utilizado el modelo COSHH Essentials”<br>
+                                </span></h5>
+                        </div><br>
+                        <h5><span style="font-weight: normal;">Por otra parte y para facilitar la comprensión del informe, aquella información más exhaustiva que se considere necesaria sobre: el método analítico, los certificados de calibración de los equipos de muestreo, las copias de los informes del laboratorio, las operaciones de cálculo de los resultados, etc., puede adjuntarse en los anexos informativos.
+                            </span></h5><br>
+                        <h5><span class="" style="color: rgb(0, 0, 255);">Criterios de Valoración&nbsp;</span></h5><br>
+                        <h5><span style="font-weight: normal;">Descripción de los criterios empleados en la valoración del riesgo o riesgos detectados, justificando su idoneidad para la valoración del riesgo y su vigencia.
+                            </span></h5><br>
+                        <h5>
+                            <ul>
+                                <li><span style="font-weight: normal;">Valores límite establecidos en normativa específica.</span></li>
+                                <li><span style="font-weight: normal;">Límites de exposición profesional para agentes químicos en España. INSHT</span></li>
+                                <li><span style="font-weight: normal;">Normas UNE y/o internacionales </span></li>
+                                <li><span style="font-weight: normal;">Guías de entidades de reconocido prestigio en la materia.</span></li>
+                                <li><span style="font-weight: normal;">Criterios profesionales debidamente documentados. </span></li><br>
+                            </ul>
+                        </h5>
+                        <h5><span style="font-weight: normal;">Es de suma importancia que el método analítico se ajuste a la naturaleza del criterio de valoración escogido y que ambos sean representativos de la exposición estudiada.<br><br>Siempre que sea posible se utilizarán tablas para la presentación de resultados o incluso cuando se desee sintetizar parte del texto del informe. La utilización de tablas permite al lector asimilar con mayor rapidez el contenido básico del informe.
+                            </span></h5><br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
