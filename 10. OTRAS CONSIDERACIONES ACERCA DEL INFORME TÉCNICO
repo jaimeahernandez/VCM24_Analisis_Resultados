@@ -1,0 +1,55 @@
+<section style="text-align: left;">
+    <div class="container my-2 py-md-5">
+        <div class="row align-items-center">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="">
+
+                <!-- Aqui comienza la tarjeta blanca donde esta contenido el texto -->
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;">
+                    <div class="card-body p-lg-5">
+                        <h5><span style="font-weight: normal;">Como se indica al inicio de esta nota técnica, el informe higiénico es la expresión escrita, precisa, clara y breve de determinadas actividades realizadas para la evaluación de riesgos. De su contenido se derivarán las actuaciones necesarias para corregir las deficiencias detectadas o para mejorar las condiciones de trabajo, así como las responsabilidades que pudieran derivarse. Es por tanto esencial que en el informe queden claramente reflejadas las limitaciones existentes. En numerosas ocasiones, las
+                                observaciones realizadas por el técnico higienista y las condiciones ambientales y de trabajo existentes responden a circunstancias puntuales, es decir, las propias del
+                                momento en que se lleva a cabo el estudio. En ese sentido, el autor se responsabiliza del contenido expresado en el informe, pero no de que las condiciones higiénicas de la actividad sean siempre las adecuadas.La inclusión de frases tales como:
+                            </span></h5>
+
+                        <!-- Aqui COMIENZA la PRIMERA tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplo: </strong></h5><br>
+                            <h5><span style="font-weight: normal;"> “El presente informe se refiere a las condiciones de trabajo existentes durante las visitas realizadas a los puestos de trabajo evaluados, por lo que las conclusiones emitidas son válidas siempre que no se modifiquen las condiciones existentes en aquel
+                                    momento”.
+                                </span></h5>
+                        </div><br>
+
+                        <!-- Aqui TERMINA la PRIMERA tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <h5><span style="font-weight: normal;">Otros aspectos que es conveniente señalar e incluir en el informe hacen referencia a diferentes cuestiones que permitirán dejar constancia del origen y de la fiabilidad de los datos allí expuestos.<br><br>Es conveniente diferenciar la información obtenida por observación o medición del técnico que realiza y firma el informe de la que ha sido suministrada por terceros. La primera constata las condiciones existentes en el momento de la visita, la segunda puede corresponder a datos ciertos existentes en algún momento, pero sobre los que no se tiene constancia de su vigencia por lo que su utilización en la evaluación debería ser hipotética, pero no concluyente o, por lo menos, no de forma definitiva.
+                            </span></h5>
+
+                        <!-- Aqui COMIENZA la SEGUNDA tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplo: </strong></h5><br>
+                            <h5><span style="font-weight: normal;"> “Según información proporcionada por el Servicio de mantenimiento de la empresa, el sistema de ventilación del edificio proporciona un caudal de aire de renovación de XX metros cúbicos por hora”.
+                                </span></h5>
+                        </div><br>
+
+                        <!-- Aqui TERMINA la SEGUNDA tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <h5><span style="font-weight: normal;">En la planificación de las visitas es importante acordar las fechas en función de las peores condiciones previsibles. No es infrecuente que el técnico se encuentre con
+                                cambios inesperados que pueden invalidar los resultados de la evaluación. Es obvio que los resultados que se obtengan en esas circunstancias no pueden responder completamente a las posibles situaciones de riesgo. La opción es postergar la visita a riesgo de que se reproduzcan las circunstancias o, de realizarse la evaluación, dejar constancia de las circunstancias existentes y de la provisionalidad de las conclusiones.
+                            </span></h5>
+
+                        <!-- Aqui COMIENZA la TERCERA tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert">
+                            <h5><strong>Ejemplo: </strong></h5><br>
+                            <h5><span style="font-weight: normal;"> “Las fechas de las visitas se acordaron atendiendo a los períodos de máxima productividad del proceso en estudio”. “En el momento de la visita y por razones internas de la empresa, de las tres líneas de producción solo estaban en funcionamiento dos de las mismas”.
+                                </span></h5>
+                        </div><br>
+                        <!-- Aqui TERMINA la TERCERA tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <h5><span style="font-weight: normal;">Por lo que respecta a los resultados de las mediciones hay diversas circunstancias que también deberían quedar claramente reflejadas en el informe. Entre ellas cabe destacar: la falta de muestra por fallo durante la captación o sin resultado por pérdida de la muestra durante el análisis, o la indicación clara de que la concentración se encuentra por debajo del límite de detección del método de ensayo y su significado.
+                            </span></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
