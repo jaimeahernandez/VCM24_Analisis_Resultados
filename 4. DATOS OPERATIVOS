@@ -1,0 +1,115 @@
+<section style="text-align: left;" data-tag-id="2">
+    <div class="container my-2 py-md-5" data-tag-id="3">
+        <div class="row align-items-center" data-tag-id="4">
+            <div class="mb-5 mb-lg-0 col-lg-8 col-12 text-justify" style="" data-tag-id="5">
+
+                <!-- Aqui comienza la tarjeta blanca donde esta contenido el texto -->
+                <div class="card shadow rounded border-0 text-justify" style="background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(30px); z-index: 1; width: 900px;" data-tag-id="6">
+                    <div class="card-body p-lg-5" data-tag-id="7">
+                        <h5 data-tag-id="8"><span style="font-weight: normal;" data-tag-id="9">En este apartado debería figurar toda aquella información que sea estrictamente necesaria para describir, tanto el escenario donde existe el problema, como los datos observados o cuantificados que, junto a la valoración realizada, permitirán establecer las conclusiones. El esquema de este apartado podría comprender los siguientes puntos:</span></h5><br data-tag-id="10">
+                        <h5 data-tag-id="11"><span class="" style="color: rgb(0, 0, 255);" data-tag-id="12">Datos del proceso/operación&nbsp;</span></h5><br data-tag-id="13">
+
+                        <!-- TITULO: DATOS DE PROCESO / OPERACION -->
+                        <h5 data-tag-id="14"><span style="font-weight: normal;" data-tag-id="15">&nbsp; &nbsp; &nbsp; &nbsp; – Posibles focos de contaminación&nbsp;<br data-tag-id="16"></span>
+                        </h5>
+                        <h5 data-tag-id="17"><span style="font-weight: normal;" data-tag-id="18">&nbsp; &nbsp; &nbsp; &nbsp; – Determinación de tiempos de exposición</span></h5><br data-tag-id="19">
+                        <h5 data-tag-id="20"><span style="font-weight: normal;" data-tag-id="21">En este punto se debería incluir una descripción sucinta, clara y ordenada del proceso productivo, de las operaciones, los equipos, las formas de energía aplicadas, las materias primas y las cantidades utilizadas destinados a obtener el producto final, los productos intermedios, los posibles subproductos, etc. Asimismo, debería incluir las características físicas del proceso y de cualquier elemento incorporado al mismo destinado a la protección tanto del elemento fabricado como a la protección de la seguridad y salud del trabajador. De esa descriptiva y de los datos recabados durante el proceso de evaluación, se debería poder citar los posibles focos de contaminación y establecer: ciclos de trabajo, tiempos de exposición, grupos homogéneos de trabajo, etc.
+                            </span></h5>
+
+                        <!-- Aqui comienza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null" data-tag-id="22">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert" data-tag-id="23">
+                            <h5 data-tag-id="24"><strong data-tag-id="25">Ejemplo: </strong></h5><br data-tag-id="26">
+                            <h5 data-tag-id="27"><span style="font-weight: normal;" data-tag-id="28"> “El proceso de serigrafiado de envases plásticos consiste en las siguientes operaciones: preparación de la máquina, preparación de las tintas, colocación de la tinta en las pantallas de serigrafiado, colocación del envase en la máquina y, tras el serigrafiado, la colocación de los envases en la cinta transportadora que los introduce en el horno. Otras operaciones consisten en la dilución de las tintas para recuperar la viscosidad adecuada, la limpieza con disolventes de la pantalla de serigrafiado, la limpieza con disolventes de los envases serigrafiados de forma defectuosa y la limpieza final de la máquina con disolventes. Estos productos son básicamente Percloroetileno y Ciclohexanona. De la observación del proceso se desprende que los focos de emisión de contaminantes más importantes son:<br data-tag-id="29"><br data-tag-id="30">
+                                    <ul data-tag-id="31">
+
+                                        <!-- LISTA NO ORDENADA -->
+                                        <li data-tag-id="32">Emisión de vapores orgánicos desde las piezas serigrafiadas.</li>
+                                        <li data-tag-id="33">Emisión de vapores orgánicos por las bocas y sistema de extracción del horno que vierte en la nave.</li>
+                                        <li data-tag-id="34">Emisión de vapores orgánicos durante la operación de limpieza de la máquina y equipos de trabajo.</li>
+                                        <li data-tag-id="35"> Emisión de vapores orgánicos desde los recipientes abiertos donde se colocan los trapos usados en la limpieza.</li>
+                                    </ul>
+                                </span></h5>
+                            <h5 data-tag-id="36"><span style="font-weight: normal;" data-tag-id="37"> El proceso se realiza en dos turnos y en cada uno intervienen 9 trabajadores. La jornada laboral es de 8 horas con dos pausas de 15 minutos para el desayuno y para la merienda. Al final del turno se procede a la limpieza de la pantalla y de la máquina. A partir de estos datos se puede considerar un tiempo de exposición a vapores orgánicos, de 7 horas y 45 minutos por jornada y turno”. </span></h5>
+                        </div>
+
+                        <!-- Aqui termina la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <br data-tag-id="38">
+
+                        <!-- TITULO: DATOS DEL LOCAL -->
+                        <h5 data-tag-id="39"><span class="" style="color: rgb(0, 0, 255);" data-tag-id="40">Datos del local&nbsp;</span></h5><br data-tag-id="41">
+                        <h5 data-tag-id="42"><span style="font-weight: normal;" data-tag-id="43">Breve descripción del lugar de trabajo y de los materiales empleados en su construcción o decoración. Estos datos se deberían incluir solo si son relevantes para la
+                                valoración o necesarios para sustentar conclusiones o recomendaciones.</span></h5>
+                        <hr id="null" data-tag-id="44">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert" data-tag-id="45">
+                            <h5 data-tag-id="46"><strong data-tag-id="47">Ejemplo: </strong></h5><br data-tag-id="48">
+                            <h5 data-tag-id="49"><span style="font-weight: normal;" data-tag-id="50"> “En evaluaciones de exposición a ruido es de interés conocer cuáles son los materiales de las diferentes superficies como datos relevantes para la interpretación de la reverberación o los niveles globales de ruido y en los cálculos de absorción y aislamiento acústico. En evaluaciones de exposición a agentes biológicos la naturaleza de los materiales y su estado de conservación pueden explicar la presencia y proliferación de los mismos”.<br data-tag-id="51">
+                                </span></h5>
+                        </div>
+
+                        <!-- Aqui termina la tarjeta rosada donde esta contenido el texto de ejemplos -->
+
+                        <!-- TITULO: DATOS DEL VENTILACION -->
+                        <br data-tag-id="52">
+                        <h5 data-tag-id="53"><span class="" style="color: rgb(0, 0, 255);" data-tag-id="54">Datos de Ventilación&nbsp;</span></h5><br data-tag-id="55">
+                        <h5 data-tag-id="56"><span style="font-weight: normal;" data-tag-id="57">Descripción del tipo o tipos de sistema de ventilación de los locales (natural, mecánica, mixta, inexistente), así como de sus características técnicas (fundamentalmente caudales de aire en el caso de la mecánica; dimensión de la sección de las aberturas y velocidad del aire) y pautas de funcionamiento (cuando la ventilación es natural, tiempo de apertura de puertas y ventanas; cuando es mecánica, tiempos de funcionamiento, operatividad de los elementos de distribución del aire, etc.). Datos sobre el diseño de los elementos y la dirección de los flujos de aire con respecto a los posibles focos de contaminación.</span></h5>
+
+                        <!-- Aqui empieza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null" data-tag-id="58">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert" data-tag-id="59">
+                            <h5 data-tag-id="60"><strong data-tag-id="61">Ejemplo: </strong></h5><br data-tag-id="62">
+                            <h5 data-tag-id="63"><span style="font-weight: normal;" data-tag-id="64"> “En evaluaciones de exposición a agentes químicos o agentes biológicos o en estudios de calidad de aire interior, la información sobre la ventilación permitirá efectuar los cálculos necesarios para comprobar si la dilución es o no suficiente para el control de los agentes contaminantes; si la ventilación general es suficiente para un buen funcionamiento de elementos de extracción localizada y, siempre, para la comprobación del cumplimiento de la exigencia legal en cuanto a ventilación incluida en el Real Decreto 486/1997 sobre disposiciones mínimas de seguridad y salud en los lugares de trabajo”. <br data-tag-id="65">
+                                </span></h5>
+                        </div>
+
+                        <!-- Aqui termina la tarjeta rosada donde esta contenido el texto de ejemplos -->
+
+                        <!-- TITULO: DATOS SOBRE OTRAS MEDIDAS PREVENTIVAS IMPLANTADAS -->
+                        <br data-tag-id="66">
+                        <h5 data-tag-id="67"><span class="" style="color: rgb(0, 0, 255);" data-tag-id="68">Datos sobre otras medidas preventivas implantadas&nbsp;</span></h5><br data-tag-id="69">
+                        <h5 data-tag-id="70"><span style="font-weight: normal;" data-tag-id="71">Descripción de las medidas ya implantadas y de sus características técnicas y funcionales.</span></h5>
+
+                        <!-- Aqui empieza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null" data-tag-id="72">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert" data-tag-id="73">
+                            <h5 data-tag-id="74"><strong data-tag-id="75">Ejemplo: </strong></h5><br data-tag-id="76">
+                            <h5 data-tag-id="77"><span style="font-weight: normal;" data-tag-id="78"> “…en la descarga del material pulverulento de la tolva a los bidones existe una extracción localizada perimetral situada a 20 cm del bidón y con velocidades de aspiración en la boca del bidón de 0,2 m/s”. <br data-tag-id="79">
+                                </span></h5>
+                        </div>
+
+                        <!-- Aqui termina la tarjeta rosada donde esta contenido el texto de ejemplos -->
+
+                        <!-- TITULO: DATOS SOBRE LOS EQUIPOS DE PROTECCION INDIVIDUAL -->
+                        <br data-tag-id="80">
+                        <h5 data-tag-id="81"><span class="" style="color: rgb(0, 0, 255);" data-tag-id="82">Datos sobre los equipos de protección individual&nbsp;</span></h5><br data-tag-id="83">
+                        <h5 data-tag-id="84"><span style="font-weight: normal;" data-tag-id="85">Descripción de los equipos disponibles, sus características, pautas de utilización y de conservación.</span></h5>
+
+                        <!-- Aqui empieza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null" data-tag-id="86">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert" data-tag-id="87">
+                            <h5 data-tag-id="88"><strong data-tag-id="89">Ejemplo: </strong></h5><br data-tag-id="90">
+                            <h5 data-tag-id="91"><span style="font-weight: normal;" data-tag-id="92"> “Los trabajadores disponen de protectores auditivos tipo Orejera marca XX con los siguientes datos de atenuación...”.<br data-tag-id="93">“Se observa que solo la mitad de los trabajadores utilizan dichos protectores auditivos”.<br data-tag-id="94"> “Algunos protectores se hallan deteriorados por el uso y no se asegura la presión que debe ejercer el arnés sobre la cabeza del trabajador.”<br data-tag-id="95">“El tiempo de utilización real se estima, en general, en la mitad del de exposición”.<br data-tag-id="96">
+                                </span></h5>
+                        </div>
+
+                        <!-- TITULO: OTROS DATOS DE INTERES -->
+                        <br data-tag-id="97">
+                        <h5 data-tag-id="98"><span class="" style="color: rgb(0, 0, 255);" data-tag-id="99">Otros datos de interés&nbsp;</span></h5><br data-tag-id="100">
+                        <h5 data-tag-id="101"><span style="font-weight: normal;" data-tag-id="102">Descripción de cualquier otro aspecto que sea relevante para la evaluación.</span></h5>
+
+                        <!-- Aqui empieza la tarjeta rosada donde esta contenido el texto de ejemplos -->
+                        <hr id="null" data-tag-id="103">
+                        <div class="alert alert-danger" style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium; text-align: justify; max-width: 950px; margin: 0 auto;" role="alert" data-tag-id="104">
+                            <h5 data-tag-id="105"><strong data-tag-id="106">Ejemplo: </strong></h5><br data-tag-id="107">
+                            <h5 data-tag-id="108"><span style="font-weight: normal;" data-tag-id="109"> “Una vez al año se realiza la desinfección de los locales mediante la aplicación por nebulización del producto XX. Esta tarea se lleva a cabo por las tardes con los locales desocupados y el sistema de ventilación parado. Al día siguiente se retoman las actividades normales de la empresa. La ficha de datos de seguridad del producto establece un plazo de seguridad de 48 horas y la ventilación exhaustiva del local”.<br data-tag-id="110">
+                                </span></h5>
+                        </div>
+                        <br data-tag-id="111">
+                        <h5 data-tag-id="112"><span style="font-weight: normal;" data-tag-id="113">En ocasiones, los datos operativos descritos reflejan situaciones o condiciones de trabajo manifiestamente inaceptables desde el punto de vista higiénico, pero que, en cualquier caso, forman parte de la observación realizada y como tales deben figurar en el informe.</span></h5>
+                    </div>
+                </div>
+                <div class="mb-5 mb-lg-0 ml-lg-n5 col-lg-4 col-10 d-flex" data-tag-id="114"> <br data-tag-id="115"> </div>
+            </div>
+        </div>
+    </div>
+</section>
