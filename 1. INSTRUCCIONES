@@ -1,0 +1,22 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 bg-primary cover">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad individual TID - 2</span></h3>
+                    <h5 class="text-justify">Con base en el video tutorial TID - 2, llevarán a cabo un cuestionario de 10 preguntas. Este video está relacionado con el Análisis de resultados de Humos metálicos en el aire. Adicionalmente, deben observar el video Tutorial App2 que les ayudará a realizar de forma automatizada los cálculos para evaluar la concentración de humos metálicos en el aire, interpretando los resultados obtenidos y su impacto en la calidad del aire sin necesidad de realizar cálculos manuales. El cuestionario calificable lo encontrarán en la siguiente sección. Por favor cerciórense de haber visto el contenido disponible completamente, dado que las preguntas se realizan con base en dichos videos. Muchos Exitos!</h5>
+                </div>
+                <button class="btn btn-primary htmlbootstrapeditor_videobtn bg-white btn-lg" data-videourl="https://www.youtube.com/embed/tXDm31Y1QpA?rel=0" style="color: rgb(15, 108, 191); font-family: sans-serif; font-weight: bold;">
+                    Tutorial TID2
+                </button>
+                <button class="btn btn-primary htmlbootstrapeditor_videobtn bg-white btn-lg" data-videourl="https://www.youtube.com/embed/566z1Cpio0Y?rel=0" style="color: rgb(15, 108, 191); font-family: sans-serif; font-weight: bold;">
+                    Tutorial App2
+                </button>
+                <a href="https://colab.research.google.com/drive/1WpPo9wVKx34yvkglUWvUpXWjgjB4kLDo?usp=sharing" target="_blank" class="btn-lg btn-primary" style="font-family: sans-serif; font-size: 18px; font-weight: Bold;">
+                    Link App2
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
