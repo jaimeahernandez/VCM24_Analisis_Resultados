@@ -1,0 +1,22 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 bg-primary cover">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad grupal (Máximo 3 personas)</span></h3>
+                    <h5 class="text-justify">El producto de esta actividad es un INFORME HIGIENICO que deberá ser presentado en una de las plataformas establecidas por el tutor (Genially,&nbsp; Canva o Piktochart). Dicho informe deberá desarrollarse conforme a la Nota Técnica de Prevención NTP 863 y por el estudio de exposición a material particulado cuya información es aportada en esta misma actividad. El informe Higiénico se diseñará DURANTE el encuentro y cada grupo deberá subirlo a Moodle en la Unidad 1, Actividad E1. Si requiere hacer cálculos, les recomendamos apoyarse en la aplicación suministrada y que se encuentra abajo en el enlace "Link App". Al finalizar la Actividad E1, saldrá un mensaje para que puedan subir el trabajo o informe realizado (al pulsar el botón Subir...). Muchos Exitos!</h5>
+                </div>
+                <button class="btn btn-primary htmlbootstrapeditor_videobtn bg-white btn-lg" data-videourl="https://www.youtube.com/embed/mu0eI5hmyWc?rel=0" style="color: rgb(15, 108, 191); font-family: sans-serif; font-weight: bold;">
+                    Tutorial E1
+                </button>
+                <button class="btn btn-primary htmlbootstrapeditor_videobtn bg-white btn-lg" data-videourl="https://www.youtube.com/embed/3epYyzBG9-0?rel=0" style="color: rgb(15, 108, 191); font-family: sans-serif; font-weight: bold;">
+                    Tutorial App
+                </button>
+                <a href="https://colab.research.google.com/drive/16njLI8mbZ_q73TL9oEJtGVbjqIDTMjtP?usp=sharing" target="_blank" class="btn-lg btn-primary" style="font-family: sans-serif; font-size: 18px; font-weight: Bold;">
+                    Link App
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
