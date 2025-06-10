@@ -1,0 +1,20 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 bg-primary cover">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad grupal E4 (Máximo dos personas)</span></h3>
+                    <h5 class="text-justify">Una vez hayan realizado el estudio de caso aquí propuesto, llevarán a cabo un cuestionario de 10 preguntas. Esta actividad está relacionada con el Análisis de resultados de los niveles de iluminación y uniformidad en oficinas de tipo general. Adicionalmente, se recomienda estar atento a la información previa suministrada por el tutor para que tengan una idea del ejercicio que deberán ejecutar. Para realizar de forma automatizada los cálculos de los niveles de iluminación y la uniformidad, se recomienda pulsar el Link App4 para descargar la aplicación de cálculo. El cuestionario calificable lo encontrarán al finalizar. Por favor cerciórense de haber visto el contenido disponible completamente en el estudio de caso, dado que las preguntas se realizan con base en los resultados obtenidos. Muchos Exitos!</h5>
+                </div>
+
+                <button class="btn btn-primary htmlbootstrapeditor_videobtn bg-white btn-lg" data-videourl="https://www.youtube.com/embed/Zu5coHSSUN0?rel=0" style="color: rgb(15, 108, 191); font-family: sans-serif; font-weight: bold;">
+                    Tutorial Calc
+                </button>
+                <a href="https://we.tl/t-gUpxtY7Zw4" target="_blank" class="btn-lg btn-primary" style="font-family: sans-serif; font-size: 18px; font-weight: Bold;">
+                    Link App4
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
