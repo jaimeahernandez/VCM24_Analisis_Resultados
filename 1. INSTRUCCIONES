@@ -1,0 +1,18 @@
+<br>
+<section>
+    <div class="container-fluid px-md-3 px-lg-3 py-3 py-md-3 py-lg-3 bg-primary cover">
+        <div class="row flex-md-row justify-content-md-center">
+            <div class="col-md-8 col-12" style="width: 1000px;">
+                <div class="p-2 text-white text-center" style="">
+                    <h3 class="mb-2 pb-3"><em><span class="fa fa-flag-checkered"></span></em> <span class="px-md-3">Lea detenidamente las instrucciones de esta actividad individual TID - 3</span></h3>
+                    <h5 class="text-justify">Con base en el video tutorial TID - 3, llevarán a cabo un cuestionario de 10 preguntas. Este video está relacionado con el Análisis de resultados de Ruido Ocupacional. El cuestionario calificable lo encontrarán en la siguiente sección. Por favor cerciórense de haber visto el contenido disponible completamente, dado que las preguntas se realizan con base en dicho video. Muchos Exitos!</h5>
+                </div>
+                <button class="btn btn-primary htmlbootstrapeditor_videobtn bg-white btn-lg" data-videourl="https://www.youtube.com/embed/M_LlMx6V2-k?rel=0" style="color: rgb(15, 108, 191); font-family: sans-serif; font-weight: bold;">
+                    Tutorial TID3
+                </button>
+
+
+            </div>
+        </div>
+    </div>
+</section>
